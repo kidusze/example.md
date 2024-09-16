@@ -19,3 +19,4 @@ This is *italics* and **THIS** is bold
 ## Installation(Linux)
 ## Installation(Windows)
 > Text that is a quote
+![An image of the GOAT](https://www.gettyimages.com/photos/lionel-messi)

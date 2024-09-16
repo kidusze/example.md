@@ -5,6 +5,7 @@ Here is some text!
 - lists
 - use
 - dashes
+- Here is a simple footnote[^1].
 [^1]: My reference 
 
 1. First item

@@ -12,7 +12,7 @@ python -m http.server
 ```python
 [x for x in range (2,5) if x!= 4]
 ```
-This is my link [github website](https://github.com/dashboard).
+This is my link for [github website](https://github.com/dashboard).
 We are going to debug with `println` statments.
 ## Installation(MACOS)
 This is *italics* and **THIS** is bold

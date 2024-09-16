@@ -14,5 +14,6 @@ python -m http.server
 ```
 
 ## Installation(MACOS)
+This is *italics* and **THIS** is bold
 ## Installation(Linux)
 ## Installation(Windows)

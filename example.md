@@ -13,6 +13,6 @@ python -m http.server
 [x for x in range (2,5) if x!= 4]
 ```
 
-## installation(MACOS)
-## installation(Linux)
-## installation(Windows)
+## Installation(MACOS)
+## Installation(Linux)
+## Installation(Windows)

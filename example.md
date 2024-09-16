@@ -5,6 +5,7 @@ Here is some text!
 - lists
 - use
 - dashes
+- [^1]: My reference 
 
 1. First item
    - Second item

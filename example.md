@@ -1,6 +1,7 @@
 # Heading 1
 ## Sub-Heading
 Here is some text!
-'''java
+
+```java
 System.out.println("Great!")
-'''
+```

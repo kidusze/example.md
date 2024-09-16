@@ -13,7 +13,7 @@ python -m http.server
 [x for x in range (2,5) if x!= 4]
 ```
 
-We are going to debug with 'println' statments.
+We are going to debug with `println` statments.
 ## Installation(MACOS)
 This is *italics* and **THIS** is bold
 ## Installation(Linux)

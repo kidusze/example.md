@@ -6,6 +6,9 @@ Here is some text!
 - use
 - dashes
 
+1. First item
+   - Second item
+      - Third item
 
 ```java
 System.out.println("Great!")
